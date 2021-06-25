@@ -5,4 +5,4 @@ Fora isso, o site consta com maiores informações da clínica, como serviços p
 
 ## Link para o site 
 
-https://cassio-santxs.github.io/NLW06-Project/#home
+https://cassio-santxs.github.io/NLW06-Project/
